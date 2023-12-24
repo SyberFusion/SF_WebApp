@@ -1,5 +1,4 @@
-
-const API_BASE_URL = 'https://syberfusion.onrender.com/api';
+const API_BASE_URL = 'https://cyberfusion.onrender.com/';
 
 
 export API_BASE_URL;
